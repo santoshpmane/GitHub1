@@ -7,9 +7,9 @@ the syllabus covered upto till
 
 oops
 multithreading
-loops
+oops
 
-
+string
 
 
 we need to update file
