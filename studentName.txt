@@ -1,11 +1,11 @@
 The students name are
 
-1 santosh
-2 vishal
-3 manisha
-7 jyoti
-8 sanjana
-4 sid
-5 shreyas
+ santosh
+ vishal
+ manisha
+ jyoti
+ sanjana
+ sid
+ shreyas
 
 
