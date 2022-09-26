@@ -9,7 +9,7 @@ oops
 multithreading
 loops
 
-db
+
 
 
 we need to update file
