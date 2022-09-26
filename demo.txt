@@ -3,6 +3,13 @@ created demo.txt file for learning
 
 for learning github 
 
+the syllabus covered upto till
+
+oops
+multithreading
+loops
+
+db
 
 
 we need to update file
